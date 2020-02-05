@@ -27,6 +27,7 @@ problem 1 Cities anlysis
 
 
 Problem 2 (venue sugestion for ristaurant investment)
- data set used here is the results of the data collected and transform (using python and foursquere api) into strutured and usable data format in the previous section
+    
+    data set used here is the results of the data collected and transform (using python and foursquere api) into strutured and usable data format in the previous section
 
 
