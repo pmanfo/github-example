@@ -1,0 +1,6 @@
+The problem consists in analyzing cities NEW YORK CITY, Toronto, And paris.
+It's about :
+
+ 1- To analyze the places of the different districts of all the districts of each of these cities in order to find the similarities between them.
+
+ 2- Use the data collected from analysis 1 to suggest a suitable location for anyone wishing to create a restaurant.
