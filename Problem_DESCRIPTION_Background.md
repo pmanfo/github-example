@@ -1,4 +1,9 @@
-The problem consists in analyzing the cities NEW YORK CITY, Toronto And Paris.
+An investor want to invest on a Restaurant.He is particulary interested in investing either in Toronto or in Paris.So he would like a deep study about these two city .
+
+The investor would like to know which of these two cities it the most similar to Newyork city to invest there.He would also like to know which venue in this city is the best place to invest .
+
+
+The problem as set consists in analyzing the cities NEW YORK CITY, Toronto And Paris.
 
 More precisely ,the problem is about :
 
